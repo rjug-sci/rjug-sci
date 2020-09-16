@@ -36,7 +36,8 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rjug-sci&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rjug-sci&theme=tokyonight">
-  api/top-langs?username=rjug-sci
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjug-sci)](https://github.com/rjug-sci/github-readme-stats)
+
 </p>
 
 </details>
