@@ -1,9 +1,9 @@
 ### Welcome to my Github! I'm Roman - [rjug-sci] 
 
 ## Currently working on
+- BioInformatics analysis of genomic data
 - Mastering ML models with Python
-- Data visualisation with R
-- Experimenting with Front end
+- Data science with R
 
 ### Connect with me:
 [<img align="left" alt="rjugsci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
