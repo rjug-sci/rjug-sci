@@ -1,4 +1,4 @@
-### Welcome to my Github! I'm Roman - [rjug-sci] 
+### Welcome to my Github! I'm Roman 
 
 ## Currently working on
 - BioInformatics analysis of genomic data
